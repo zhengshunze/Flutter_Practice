@@ -12,3 +12,7 @@ git clone https://github.com/flutter/flutter.git -b stable
 ⚡**警告**
 - 不要將 Flutter 安裝到包含特殊字符或空格的路徑。
 - 不要將 Flutter 安裝在 C:\Program Files\需要提升權限的目錄中。 
+進入C:\src\flutter，雙擊執行flutter_console.bat，並輸入已下指令，來檢查是否完成必要的環境安裝項目。
+```
+flutter doctor
+```
