@@ -5,7 +5,7 @@
 [Git](https://git-scm.com/downloads) \
 [Flutter](https://docs.flutter.dev/get-started/install)
 
-並將Flutter SDK 至所需安裝位置（例如，C:\src\flutter），並進入路徑打開CMD，輸入已下指令。
+並將Flutter SDK 至所需安裝位置（例如，C:\src\flutter），並進入路徑打開CMD，輸入以下指令。
 ```
 git clone https://github.com/flutter/flutter.git -b stable
 ```
