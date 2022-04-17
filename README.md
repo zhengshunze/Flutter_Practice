@@ -27,14 +27,18 @@ flutter doctor
       Run `path/to/sdkmanager --install "cmdline-tools;latest"`
       See https://developer.android.com/studio/command-line for more details.
 ```
-★ 解決方法 \
+
+★ ***解決方法*** \
 安裝Android Studio後打開並安裝SDK後，至點選左側的 Customize ，找到右邊底下的 All settings... 並進入 Appearance & Behavior | System Settings | Android SDK ，切換到SDK Tools 頁籤中，將 Android SDK Command-line Tools (latest) 選項打勾後按Apply即完成安裝。
+
+<hr>
+
 - 尚未同意Android license
 ```
 Some Android licenses not accepted.  To resolve this, run: flutter doctor --android-licenses 
 ```
-★ 解決方法 
 
+★ ***解決方法*** \
 在cmd 打 'flutter doctor --android-licenses' 並一直輸入'y'即可。
 
 若報錯，請將 ' C:\src\flutter\bin ' 加入系統/使用者 Path環境變數 即可。
