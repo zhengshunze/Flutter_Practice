@@ -28,7 +28,7 @@ flutter doctor
       See https://developer.android.com/studio/command-line for more details.
 ```
 ★ 解決方法 \
-安裝Android Studio後打開並安裝SDK後，至點選左側的 Customize ，找到右邊底下的 All settings... 並進入 Appearance & Behavior | System Settings | Android SDK ，切換到SDK Tools 頁籤中，將 Android SDK Command-line Tools (latest) 選項打勾後按Apply即完成安裝。\
+安裝Android Studio後打開並安裝SDK後，至點選左側的 Customize ，找到右邊底下的 All settings... 並進入 Appearance & Behavior | System Settings | Android SDK ，切換到SDK Tools 頁籤中，將 Android SDK Command-line Tools (latest) 選項打勾後按Apply即完成安裝。
 - 尚未同意Android license
 ```
 Some Android licenses not accepted.  To resolve this, run: flutter doctor --android-licenses 
