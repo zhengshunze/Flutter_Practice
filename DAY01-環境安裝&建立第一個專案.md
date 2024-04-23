@@ -59,6 +59,14 @@ flutter doctor
 ★ ***解決方法*** 
 進入Visual Studio Installer 修改 安裝內容 將 Desktop development with C++ 打勾後按下修改。
 
+- 未安裝Intel® HAXM (在安裝Android Studio出現的)
+```
+Intel® HAXM installation failed. To install Intel® HAXM follow the instructions found at: https://github.com/intel/haxm/wiki/Installation-Instructions-on-Windows
+```
+★ ***解決方法*** 
+去https://github.com/intel/haxm/releases 下載 haxm-macosx_vX_X_0.zip 解壓後執行haxm-X.X.X-setup.exe
+
+
 
 - 未安裝cmdline-tool
 ```cmdline-tools component is missing
