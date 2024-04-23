@@ -86,3 +86,13 @@ Some Android licenses not accepted.  To resolve this, run: flutter doctor --andr
 
 若報錯，請將 ' C:\src\flutter\bin ' 加入系統/使用者 Path環境變數 即可。
 ![image](https://user-images.githubusercontent.com/77151276/163722754-be03edcc-47f9-4ffb-8926-2e2a700aaa2c.png)
+
+
+最後確定都是為 [V] ，如以下所示
+
+<img width="671" alt="image" src="https://github.com/zhengshunze/Flutter_Practice/assets/77151276/deaafdd3-86d1-4d5c-9a4c-868e7fbaef02">
+
+
+恭喜你完成了環境建置的過程，
+
+勇士們開始冒險囉!!!
