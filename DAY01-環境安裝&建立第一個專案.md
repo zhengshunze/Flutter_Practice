@@ -1,10 +1,12 @@
 # Flutter_Practice
 **0. 簡介與安裝**
 
-☞ 安裝以下 \
+☞ 先行安裝以下 \
 [Android Studio](https://developer.android.com/studio) \
 [Git](https://git-scm.com/downloads) \
 [Flutter](https://docs.flutter.dev/get-started/install)
+[VS Studio](https://visualstudio.microsoft.com/zh-hant/downloads/)
+
 
 並將Flutter SDK 至所需安裝位置（例如，C:\src\flutter），並進入路徑打開CMD，輸入以下指令。
 ```
