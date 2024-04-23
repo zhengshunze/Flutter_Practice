@@ -23,6 +23,26 @@ flutter doctor
 
 ⚡**問題與排解**
 
+
+- 未安裝 Android Studio
+```
+[X] Android toolchain - develop for Android devices
+    X Unable to locate Android SDK.
+      Install Android Studio from: https://developer.android.com/studio/index.html
+      On first launch it will assist you in installing the Android SDK components.
+      (or visit https://flutter.dev/docs/get-started/install/windows#android-setup
+      for detailed instructions).
+      If the Android SDK has been installed to a custom location, please use
+      `flutter config --android-sdk` to update to that location.
+```
+★ ***解決方法*** 
+
+進入developer.android.com/studio?hl=zh-tw 官網下載Android Studio，安裝項目如下:
+
+<img width="747" alt="image" src="https://github.com/zhengshunze/Flutter_Practice/assets/77151276/33509451-9707-4b6f-ba94-4be6c3483472">
+
+
+
 - 未安裝Visual Studio 之 MSVC
 ```
 [!] Visual Studio - develop Windows apps (Visual Studio Community 2022 17.9.5)
@@ -35,7 +55,6 @@ flutter doctor
         Windows 10 SDK
 ```
 ★ ***解決方法*** 
-
 進入Visual Studio Installer 修改 安裝內容 將 Desktop development with C++ 打勾後按下修改。
 
 
