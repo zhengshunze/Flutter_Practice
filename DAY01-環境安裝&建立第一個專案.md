@@ -22,6 +22,23 @@ flutter doctor
 ![image](https://user-images.githubusercontent.com/77151276/163722113-4784ce28-6203-4895-997b-b7b30adf9f81.png)
 
 ⚡**問題與排解**
+
+- 未安裝Visual Studio 之 MSVC
+```
+[!] Visual Studio - develop Windows apps (Visual Studio Community 2022 17.9.5)
+    X Visual Studio is missing necessary components. Please re-run the Visual Studio
+      installer for the "Desktop development with C++" workload, and include these
+      components:
+        MSVC v142 - VS 2019 C++ x64/x86 build tools
+         - If there are multiple build tool versions available, install the latest
+        C++ CMake tools for Windows
+        Windows 10 SDK
+```
+★ ***解決方法*** 
+
+進入Visual Studio Installer 修改 安裝內容 將 Desktop development with C++ 打勾後按下修改。
+
+
 - 未安裝cmdline-tool
 ```cmdline-tools component is missing
       Run `path/to/sdkmanager --install "cmdline-tools;latest"`
