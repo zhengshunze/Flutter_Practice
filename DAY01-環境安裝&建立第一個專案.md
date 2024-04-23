@@ -4,7 +4,7 @@
 ☞ 先行安裝以下 \
 [Android Studio](https://developer.android.com/studio) \
 [Git](https://git-scm.com/downloads) \
-[Flutter](https://docs.flutter.dev/get-started/install)
+[Flutter](https://docs.flutter.dev/get-started/install) \
 [VS Studio](https://visualstudio.microsoft.com/zh-hant/downloads/)
 
 
