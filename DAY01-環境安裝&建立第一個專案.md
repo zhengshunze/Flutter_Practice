@@ -25,7 +25,6 @@ flutter doctor
 
 ⚡**問題與排解**
 
-
 - 未安裝 Android Studio
 ```
 [X] Android toolchain - develop for Android devices
@@ -38,12 +37,9 @@ flutter doctor
       `flutter config --android-sdk` to update to that location.
 ```
 ★ ***解決方法*** 
-
 進入developer.android.com/studio?hl=zh-tw 官網下載Android Studio，安裝項目如下:
 
 <img width="747" alt="image" src="https://github.com/zhengshunze/Flutter_Practice/assets/77151276/33509451-9707-4b6f-ba94-4be6c3483472">
-
-
 
 - 未安裝Visual Studio 之 MSVC
 ```
@@ -67,8 +63,7 @@ Intel® HAXM installation failed. To install Intel® HAXM follow the instruction
 去https://github.com/intel/haxm/releases 下載 haxm-macosx_vX_X_0.zip 解壓後執行haxm-X.X.X-setup.exe
 
 
-
-- 未安裝cmdline-tool
+- 未安裝cmdline-tool (
 ```cmdline-tools component is missing
       Run `path/to/sdkmanager --install "cmdline-tools;latest"`
       See https://developer.android.com/studio/command-line for more details.
@@ -76,6 +71,8 @@ Intel® HAXM installation failed. To install Intel® HAXM follow the instruction
 
 ★ ***解決方法*** \
 安裝Android Studio後打開並安裝SDK後，至點選左側的 Customize ，找到右邊底下的 All settings... 並進入 Appearance & Behavior | System Settings | Android SDK ，切換到SDK Tools 頁籤中，將 Android SDK Command-line Tools (latest) 選項打勾後按Apply即完成安裝。
+
+<img width="738" alt="image" src="https://github.com/zhengshunze/Flutter_Practice/assets/77151276/0c86fd51-8bdf-4a83-9636-0a72bb700ca1">
 
 <hr>
 
