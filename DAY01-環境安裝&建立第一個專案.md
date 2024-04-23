@@ -92,8 +92,6 @@ Some Android licenses not accepted.  To resolve this, run: flutter doctor --andr
 
 <img width="671" alt="image" src="https://github.com/zhengshunze/Flutter_Practice/assets/77151276/deaafdd3-86d1-4d5c-9a4c-868e7fbaef02">
 
-```
-恭喜你完成了環境建置的過程，
 
-勇士們開始冒險囉!!!
-```
+## 恭喜你完成了環境建置的過程， 勇士們開始冒險囉!!!
+
